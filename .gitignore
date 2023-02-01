@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+###################################
+#ingorando minhas coisas
+# Ignore the lubot2ENV folder
+lubot2ENV/
+
+# Ignore the priv.py file
+priv.py
